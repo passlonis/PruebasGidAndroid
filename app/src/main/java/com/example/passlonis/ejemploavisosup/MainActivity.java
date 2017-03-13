@@ -13,10 +13,15 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         todo();
+        nada();
     }
 
 
     public void todo(){
+
+    }
+
+    public void nada(){
 
     }
 }
